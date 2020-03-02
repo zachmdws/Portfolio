@@ -9,9 +9,9 @@ $(".navbar-burger").on("click", function(){
 // });
 
 $(".linkedIn").on("click", function(){  
-    window.location.href="https://www.linkedin.com/in/zachary-meadows-102681145/";
+    window.open("https://www.linkedin.com/in/zachary-meadows-102681145/", "_blank");
 })
 
 $(".gitHub").on("click", function(){  
-    window.location.href="https://github.com/zachmdws";
+    window.open("https://github.com/zachmdws", "_blank");
 })
